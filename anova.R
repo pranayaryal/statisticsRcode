@@ -15,3 +15,4 @@ oneway.test(score~method,data=anov,var.equal=T)
 levene.test(anov$score,anov$method,
             location="median")
 
+##we will continue
